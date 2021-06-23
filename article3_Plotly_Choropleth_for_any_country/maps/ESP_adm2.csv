@@ -1,0 +1,53 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","ID_2","NAME_2","TYPE_2","ENGTYPE_2","NL_NAME_2","VARNAME_2"
+1,215,"ESP","Spain",1,"Andalucía",1,"Almería","Provincia","Province",NA,NA
+2,215,"ESP","Spain",1,"Andalucía",2,"Cádiz","Provincia","Province",NA,NA
+3,215,"ESP","Spain",1,"Andalucía",3,"Córdoba","Provincia","Province",NA,NA
+4,215,"ESP","Spain",1,"Andalucía",4,"Granada","Provincia","Province",NA,NA
+5,215,"ESP","Spain",1,"Andalucía",5,"Huelva","Provincia","Province",NA,NA
+6,215,"ESP","Spain",1,"Andalucía",6,"Jaén","Provincia","Province",NA,NA
+7,215,"ESP","Spain",1,"Andalucía",7,"Málaga","Provincia","Province",NA,NA
+8,215,"ESP","Spain",1,"Andalucía",8,"Sevilla","Provincia","Province",NA,NA
+9,215,"ESP","Spain",2,"Aragón",9,"Huesca","Provincia","Province",NA,NA
+10,215,"ESP","Spain",2,"Aragón",10,"Teruel","Provincia","Province",NA,NA
+11,215,"ESP","Spain",2,"Aragón",11,"Zaragoza","Provincia","Province",NA,NA
+12,215,"ESP","Spain",3,"Cantabria",12,"Cantabria","Provincia","Province",NA,NA
+13,215,"ESP","Spain",4,"Castilla-La Mancha",13,"Albacete","Provincia","Province",NA,NA
+14,215,"ESP","Spain",4,"Castilla-La Mancha",14,"Ciudad Real","Provincia","Province",NA,NA
+15,215,"ESP","Spain",4,"Castilla-La Mancha",15,"Cuenca","Provincia","Province",NA,NA
+16,215,"ESP","Spain",4,"Castilla-La Mancha",16,"Guadalajara","Provincia","Province",NA,NA
+17,215,"ESP","Spain",4,"Castilla-La Mancha",17,"Toledo","Provincia","Province",NA,NA
+18,215,"ESP","Spain",5,"Castilla y León",18,"Ávila","Provincia","Province",NA,NA
+19,215,"ESP","Spain",5,"Castilla y León",19,"Burgos","Provincia","Province",NA,NA
+20,215,"ESP","Spain",5,"Castilla y León",20,"León","Provincia","Province",NA,NA
+21,215,"ESP","Spain",5,"Castilla y León",21,"Palencia","Provincia","Province",NA,NA
+22,215,"ESP","Spain",5,"Castilla y León",22,"Salamanca","Provincia","Province",NA,NA
+23,215,"ESP","Spain",5,"Castilla y León",23,"Segovia","Provincia","Province",NA,NA
+24,215,"ESP","Spain",5,"Castilla y León",24,"Soria","Provincia","Province",NA,NA
+25,215,"ESP","Spain",5,"Castilla y León",25,"Valladolid","Provincia","Province",NA,NA
+26,215,"ESP","Spain",5,"Castilla y León",26,"Zamora","Provincia","Province",NA,NA
+27,215,"ESP","Spain",6,"Cataluña",27,"Barcelona","Provincia","Province",NA,NA
+28,215,"ESP","Spain",6,"Cataluña",28,"Girona","Provincia","Province",NA,NA
+29,215,"ESP","Spain",6,"Cataluña",29,"Lleida","Provincia","Province",NA,NA
+30,215,"ESP","Spain",6,"Cataluña",30,"Tarragona","Provincia","Province",NA,NA
+31,215,"ESP","Spain",7,"Ceuta y Melilla",31,"Ceuta","Ciudad Autónoma","Autonomous City",NA,NA
+32,215,"ESP","Spain",7,"Ceuta y Melilla",32,"Melilla","Ciudad Autónoma","Autonomous City",NA,NA
+33,215,"ESP","Spain",8,"Comunidad de Madrid",33,"Madrid","Provincia","Province",NA,NA
+34,215,"ESP","Spain",9,"Comunidad Foral de Navarra",34,"Navarra","Provincia","Province",NA,NA
+35,215,"ESP","Spain",10,"Comunidad Valenciana",35,"Alicante","Provincia","Province",NA,"Alacant"
+36,215,"ESP","Spain",10,"Comunidad Valenciana",36,"Castellón","Provincia","Province",NA,"Castelló"
+37,215,"ESP","Spain",10,"Comunidad Valenciana",37,"Valencia","Provincia","Province",NA,"València"
+38,215,"ESP","Spain",11,"Extremadura",38,"Badajoz","Provincia","Province",NA,NA
+39,215,"ESP","Spain",11,"Extremadura",39,"Cáceres","Provincia","Province",NA,NA
+40,215,"ESP","Spain",12,"Galicia",40,"A Coruña","Provincia","Province",NA,"La Coruña"
+41,215,"ESP","Spain",12,"Galicia",41,"Lugo","Provincia","Province",NA,NA
+42,215,"ESP","Spain",12,"Galicia",42,"Ourense","Provincia","Province",NA,NA
+43,215,"ESP","Spain",12,"Galicia",43,"Pontevedra","Provincia","Province",NA,NA
+44,215,"ESP","Spain",13,"Islas Baleares",44,"Baleares","Provincia","Province",NA,NA
+45,215,"ESP","Spain",14,"Islas Canarias",45,"Las Palmas","Provincia","Province",NA,NA
+46,215,"ESP","Spain",14,"Islas Canarias",46,"Santa Cruz de Tenerife","Provincia","Province",NA,NA
+47,215,"ESP","Spain",15,"La Rioja",47,"La Rioja","Provincia","Province",NA,NA
+48,215,"ESP","Spain",16,"País Vasco",48,"Álava","Provincia","Province",NA,"Araba"
+49,215,"ESP","Spain",16,"País Vasco",49,"Guipúzcoa","Provincia","Province",NA,NA
+50,215,"ESP","Spain",16,"País Vasco",50,"Vizcaya","Provincia","Province",NA,NA
+51,215,"ESP","Spain",17,"Principado de Asturias",51,"Asturias","Provincia","Province",NA,NA
+52,215,"ESP","Spain",18,"Región de Murcia",52,"Murcia","Provincia","Province",NA,NA
